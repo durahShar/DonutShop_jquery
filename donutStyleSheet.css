@@ -1,0 +1,174 @@
+h1 {
+  color: black;
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+th {
+  color: black;
+  text-align: right;
+}
+
+td {
+  color: black;
+  text-align: center;
+  padding: 0,20,0,20;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+nav {
+  //background-color: #cccccc;
+  position: relative;
+  top: 5px;
+}
+
+article {
+ //background-color: #A4D997;
+}
+
+div {
+  //border: 1px solid black;
+}
+
+#report {
+  width: 800px;
+  background-color: #a4d997;
+  border: 1px solid black;
+}
+
+#shopreport {
+  width: 300px;
+  position: relative;
+  top: 20px;
+  font-family: Arial;
+  background-color: #a4d997;
+  border: 1px solid black;
+}
+
+.shopContainer {
+  width: 300px;
+}
+
+.shopReportPosition{
+  //position: relative;
+  //top: -120px;
+  //left: 125px;
+}
+
+.header {
+  width: 800px;
+  height: 50px;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  background-color: #a4d997;
+  border: 1px solid black;
+}
+
+.nav {
+  width: 800px;
+  height: 22px;
+  color: black;
+  //background-color: #cccccc;
+}
+
+.divider {
+  background-color: #ffffff;
+  width: 800px;
+  height: 40px;
+}
+.heading {
+  color: black;
+  text-align: center;
+}
+
+.shop_name {
+  color: black;
+  text-align: left;
+}
+
+.title {
+  font-size: 20px;
+  font-style: bold;
+  color: black;
+}
+
+.even {
+  background-color: #cccccc;
+}
+
+.odd {
+  background-color: #eeeeee;
+}
+
+.footer {
+  border-top: 2px solid #000000;
+  background-color: #cccccc;
+  position: absolute;
+  left: 70px;
+  top: 510px;
+}
+
+.btn0 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 122px;
+  height: 20px;
+  background-color: #a4d997;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.btn1 {
+  position: relative;
+  top: -22px;
+  left: 131px;
+  width: 120px;
+  height: 20px;
+  background-color: #a4d997;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.btn2 {
+  position: relative;
+  top: -44px;
+  left: 260px;
+  width: 120px;
+  height: 20px;
+  background-color: #a4d997;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.btn3 {
+  position: relative;
+  top: -66px;
+  left: 389px;
+  width: 120px;
+  height: 20px;
+  background-color: #a4d997;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.btn4 {
+  position: relative;
+  top: -88px;
+  left: 518px;
+  width: 120px;
+  height: 20px;
+  background-color: #a4d997;
+  border: 1px solid black;
+  text-align: center;
+}
